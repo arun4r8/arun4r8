@@ -1,4 +1,4 @@
-# Hi, I'm Arun 👋
+# Hi, I'm Arun
 
 I'm a student at UT Austin working across the stack, from silicon up to software: taking
 digital designs from RTL to GDS, writing firmware for radios, and building AI agent
