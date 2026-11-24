@@ -16,6 +16,6 @@ systems.
 
 ## Tools I work with
 
-**Hardware:** SystemVerilog, Verilog, Cadence Genus / Innovus / Tempus / Voltus / Xcelium, SKY130, Icarus Verilog
-**Embedded:** C, STM32, SX1262 / LoRa
-**Software:** TypeScript, Python, Next.js, Cloudflare Workers, Supabase / Postgres, PyTorch
+- **Hardware:** SystemVerilog, Verilog, Cadence Genus / Innovus / Tempus / Voltus / Xcelium, SKY130, Icarus Verilog
+- **Embedded:** C, STM32, SX1262 / LoRa
+- **Software:** TypeScript, Python, Next.js, Cloudflare Workers, Supabase / Postgres, PyTorch
